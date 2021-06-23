@@ -66,6 +66,10 @@ ld de,#C080 ; acknowledge values
 
 ld hl,#0700+%00111101 ; Audio channel B only
 call .sendpsg
+ld hl,#0200 ; default period
+call .sendpsg
+ld hl,#0300 ; default period
+call .sendpsg
 ld hl,#0900 ; default volume to zero and init register 9 usage
 call .sendpsg
 jr .endinit
