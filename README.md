@@ -16,4 +16,8 @@ There is NO confirmation, the floppy will be wiped! Use a test disc!
 
 And have FUN !
 
+See in action below
+
+[![Watch the video](https://img.youtube.com/vi/Djs5yMi0BEw/maxresdefault.jpg)](https://youtu.be/Djs5yMi0BEw)
+
 
